@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afc13cac-2096-4ac7-b874-d1e414d1826f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXb4bWVywyoWRCXagu9TTOiZ7A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.RentServiceApplication">
+    <configuration name="GatewayServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microdemo.gatewayservice.GatewayServiceApplication" />
+      <module name="gateway-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microdemo.gatewayservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microdemo.registryservice.RegistryServiceApplication" />
+      <module name="registry-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microdemo.registryservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microdemo.rentservice.RentServiceApplication" />
+      <module name="rent-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microdemo.rentservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RentServiceApplication" />
+        <item itemvalue="Application.GatewayServiceApplication" />
+        <item itemvalue="Application.RegistryServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afc13cac-2096-4ac7-b874-d1e414d1826f" name="Default Changelist" comment="" />
+      <created>1586884695658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586884695658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="97" key="#Project_Structure" timestamp="1586884734473">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="317" y="97" key="#Project_Structure/0.23.1440.822@0.23.1440.822" timestamp="1586884734473" />
+    <state x="565" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586885184785">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="565" y="327" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.823@0.23.1440.823" timestamp="1586885184785" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1586887149611">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1586886643301" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1586886456370" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1586887149611" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1586887149611">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1586886643301" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1586886456370" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1586887149611" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1586887149610">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1586886643301" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1586886456369" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1586887149610" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1586887149611">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1586886643301" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1586886456370" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1586887149611" />
+    <state x="329" y="131" key="NewModule_or_Project.wizard" timestamp="1586886237869">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="329" y="131" key="NewModule_or_Project.wizard/0.23.1440.816@0.23.1440.816" timestamp="1586886237869" />
+    <state x="329" y="132" key="NewModule_or_Project.wizard/0.23.1440.822@0.23.1440.822" timestamp="1586884726753" />
+    <state x="217" y="70" key="SettingsEditor" timestamp="1586885115786">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="217" y="70" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1586885115786" />
+  </component>
+</project>
